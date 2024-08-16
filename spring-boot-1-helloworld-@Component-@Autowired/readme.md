@@ -82,8 +82,7 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-## Bổ sung thư mục
-
+![image](https://github.com/user-attachments/assets/0e582cc8-97f0-4846-b18a-a616e1e8dd04)
 
 ### Cách chạy ứng dụng Spring Boot
 
@@ -136,7 +135,7 @@ Ví dụ:
 
 Cấu trúc thư mục:
 
-![spring-component](../../images/loda1557412317602/2.jpg)
+![image](https://github.com/user-attachments/assets/6e9cd303-479d-4143-91af-e3d123a6d8e3)
 
 
 Chúng ta có một interface `Outfit`
@@ -200,9 +199,9 @@ Bạn sẽ thấy `Outfit` lúc này chính là `Bikini`. Class đã được đ
 
 Quá trình chạy sẽ như sau:
 
-![spring-component](../../images/loda1557412317602/3.png)
+![image](https://github.com/user-attachments/assets/74741a0e-3cf1-41f5-a45a-def7e80bdc68)
 
-![spring-component](../../images/loda1557412317602/4.png)
+![image](https://github.com/user-attachments/assets/9d8ac51f-6a8e-4bd8-b8e2-336e096e8940)
 
 ### @Autowired
 
