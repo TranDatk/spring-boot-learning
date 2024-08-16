@@ -85,7 +85,7 @@ Lướt dạo rồi té :'(
 ### I. Spring Boot Basic 
 1. [basic-dependency-loosely-coupled](https://github.com/loda-kun/spring-boot-learning/tree/master/basic-dependency-loosely-coupled): Hướng dẫn loosely coupled
 2. [spring-boot-1-helloworld-@Component-@Autowired](https://github.com/loda-kun/spring-boot-learning/tree/master/spring-boot-1-helloworld-%40Component-%40Autowired): 「SP-#1」Hướng dẫn @Component và @Autowired
-3. [spring-boot-2-helloworld-@Primary - @Qualifier](https://github.com/loda-kun/spring-boot-learning/tree/master/spring-boot-2-helloworld-%40Primary%20-%20%40Qualifier): 「SP-#2」@Autowired - @Primary - @Qualifier
+3. [spring-boot-2-helloworld-@Primary - @Qualifier](https://github.com/TranDatk/spring-boot-learning/tree/master/spring-boot-2-helloworld-%40Primary%20-%20%40Qualifier): 「SP-#2」@Autowired - @Primary - @Qualifier
 4. [spring-boot-3-bean-life-cycle-@PostConstruct-@PreDestroy](https://github.com/loda-kun/spring-boot-learning/tree/master/spring-boot-3-bean-life-cycle-%40PostConstruct-%40PreDestroy): 「SP-#3」Spring Bean Life Cycle + @PostConstruct và @PreDestroy
 5. [spring-boot-4-@Component-@Service-@Repository](https://github.com/loda-kun/spring-boot-learning/tree/master/spring-boot-4-%40Component-%40Service-%40Repository): 「SP-#4」@Component vs @Service vs @Repository
 6. [spring-boot-5-Component-Scan](https://github.com/loda-kun/spring-boot-learning/tree/master/spring-boot-5-Component-Scan): 「SP-#5」Component Scan là gì?
