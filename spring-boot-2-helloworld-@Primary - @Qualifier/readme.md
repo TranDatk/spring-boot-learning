@@ -10,7 +10,7 @@ Trước khi đi vào phần này, có lẽ bạn muốn tìm hiểu cách vận
 
 1. [Hướng dẫn @Component và @Autowired][link-spring-boot1]
 
-Trong bài viết này chúng ta sẽ cùng tìm hiểu cách `@Autowỉed` vận hành và cách sử dụng 2 Annotation `@Primary`, `@Qualifier`.
+Trong bài viết này chúng ta sẽ cùng tìm hiểu cách `@Autowired` vận hành và cách sử dụng 2 Annotation `@Primary`, `@Qualifier`.
 
 ### Cài đặt
 
@@ -58,6 +58,8 @@ Trong bài viết này chúng ta sẽ cùng tìm hiểu cách `@Autowỉed` vậ
 ```
 
 Cấu trúc thư mục:
+![image](https://github.com/user-attachments/assets/a6eda04d-6af8-46ba-b6fb-3d00a775b937)
+
 
 ### Cách @Autowired vận hành
 
