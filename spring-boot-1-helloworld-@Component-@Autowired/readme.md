@@ -81,6 +81,7 @@ _pom.xml_
 ```
 
 Cấu trúc thư mục:
+
 ![image](https://github.com/user-attachments/assets/eef36ca1-1101-4ba8-a2ec-6bc9c8c50629)
 
 
@@ -135,7 +136,7 @@ Ví dụ:
 
 Cấu trúc thư mục:
 
-![spring-component](../../images/loda1557412317602/2.jpg)
+![image](https://github.com/user-attachments/assets/10f5f79a-1c9d-41bf-8e4a-419dfff9c921)
 
 
 Chúng ta có một interface `Outfit`
@@ -199,9 +200,9 @@ Bạn sẽ thấy `Outfit` lúc này chính là `Bikini`. Class đã được đ
 
 Quá trình chạy sẽ như sau:
 
-![spring-component](../../images/loda1557412317602/3.png)
+![image](https://github.com/user-attachments/assets/89c52b4d-93b5-405f-b4d7-161e90637c96)
 
-![spring-component](../../images/loda1557412317602/4.png)
+![image](https://github.com/user-attachments/assets/1dedbf39-9cbe-4b8b-b9b2-51b14e7f54e3)
 
 ### @Autowired
 
