@@ -81,8 +81,7 @@ _pom.xml_
 ```
 
 Cấu trúc thư mục:
-
-## Bổ sung thư mục
+![image](https://github.com/user-attachments/assets/eef36ca1-1101-4ba8-a2ec-6bc9c8c50629)
 
 
 ### Cách chạy ứng dụng Spring Boot
