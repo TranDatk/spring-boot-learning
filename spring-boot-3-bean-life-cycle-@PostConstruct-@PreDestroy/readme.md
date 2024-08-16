@@ -61,7 +61,7 @@ Hôm nay chúng ta sẽ tìm hiểu kỹ hơn về vòng đời của `Bean`.
 
 Cấu trúc thư mục:
 
-![spring-bean-life-cycle](../../images/loda1557583753982/3.jpg)
+![image](https://github.com/user-attachments/assets/58f181fd-4e5f-400d-ac92-1a55b0a9173e)
 
 ### @PostConstruct
 
@@ -95,7 +95,7 @@ public class Girl {
 
 **Spring Boot** từ thời điểm chạy lần đầu tới khi _shutdown_ thì các `Bean` nó quản lý sẽ có một vòng đời được biểu diễn như ảnh dưới đây:
 
-![spring-bean-life-cycle](../../images/loda1557583753982/2.jpg)
+![image](https://github.com/user-attachments/assets/c04011ee-df9c-4617-9b71-0c03b645a69b)
 
 Nhìn có vẻ loằng ngoằng, trong series căn bản này, bạn có lẽ sẽ chỉ cần hiểu như sau:
 
