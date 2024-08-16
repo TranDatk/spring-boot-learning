@@ -58,6 +58,7 @@ Trong bài viết này chúng ta sẽ cùng tìm hiểu cách `@Autowired` vận
 ```
 
 Cấu trúc thư mục:
+
 ![image](https://github.com/user-attachments/assets/a6eda04d-6af8-46ba-b6fb-3d00a775b937)
 
 
