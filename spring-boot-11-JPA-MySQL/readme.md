@@ -139,11 +139,15 @@ Khi đã có dữ liệu trong Database. Chúng ta sẽ tạo một Class trong 
 
 Phần này chúng ta cần có một chút kiến thức về Hibernate. Nếu bạn chưa biết những Annotation ở dưới đây để làm gì thì hãy tạm dừng và [tìm hiểu Hibernate tại đây][link-hibernate].
 
-(🙌Ghi chú riêng của người fork repo: Trong đoạn code dưới đây có đoạn khai báo sau
+
+***
+🙌Ghi chú riêng của người fork repo: Trong đoạn code dưới đây có đoạn khai báo sau
 ```java
 private static final long serialVersionUID = -297553281792804396L;
 ```
-ý nghĩa của việc này thì do hồi xưa khi chưa có json protobuf hay message pack, hay xml dùng để truyền tải dữ liệu qua môi trường mạng thì Java phải biến object thành byte array để truyền tải dữ liệu, nhưng do sợ hacker có thể giả dạng nó nên mới sinh ra serialVersionUID để kiểm tra tính 'toàn vẹn' của dữ liệu á. Các bạn có thể xem thêm ở đây: https://stackask.com/question/serialversionuid-trong-class-java-de-lam-gi )
+Ý nghĩa của việc này thì do hồi xưa khi chưa có json protobuf hay message pack, hay xml dùng để truyền tải dữ liệu qua môi trường mạng thì Java phải biến object thành byte array để truyền tải dữ liệu, nhưng do sợ hacker có thể giả dạng nó nên mới sinh ra serialVersionUID để kiểm tra tính 'toàn vẹn' của dữ liệu á. Các bạn có thể xem thêm ở đây: https://stackask.com/question/serialversionuid-trong-class-java-de-lam-gi 
+***
+
 
 _User.java_
 
