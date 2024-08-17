@@ -69,7 +69,7 @@ Thử ví dụ này nhé:
 
 Chúng ta có một project có cấu trúc thư mục như này:
 
-![spring-bean-life-cycle](../../images/loda1557673850320/2.jpg)
+![image](https://github.com/user-attachments/assets/704969a7-0dd8-4674-9715-244887726a1e)
 
 Tôi tạo ra 2 Bean:
 
