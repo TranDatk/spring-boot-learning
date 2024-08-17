@@ -66,7 +66,7 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-![spring-configuration](../../images/loda1557885506910/2.jpg)
+![image](https://github.com/user-attachments/assets/6df31c56-fc90-4e36-9997-54062539bbde)
 
 ### @Configuration và @Bean
 
