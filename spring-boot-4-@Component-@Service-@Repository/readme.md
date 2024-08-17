@@ -153,7 +153,7 @@ public class GirlRepositoryImpl implements GirlRepository {
 }
 ```
 
-Tạo ra một class `GỉrlService` để giải quyết các logic nghiệp vụ. Lớp `GirlService` sẽ giao tiếp với DB thông qua `GirlRepository`.
+Tạo ra một class `GirlService` để giải quyết các logic nghiệp vụ. Lớp `GirlService` sẽ giao tiếp với DB thông qua `GirlRepository`.
 
 ```java
 
