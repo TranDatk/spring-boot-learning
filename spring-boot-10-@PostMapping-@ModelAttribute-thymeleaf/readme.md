@@ -140,7 +140,7 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-![spring-thymeleaf](../../images/loda1558661736676/2.png)
+![image](https://github.com/user-attachments/assets/780cd6d2-3505-439d-8b17-a2ad2ee82b85)
 
 #### Tạo model
 
@@ -378,38 +378,38 @@ _index.html_
 
 Khởi động ứng dụng vào truy cập vào địa chỉ: `http://localhost:8080/`
 
-![spring-thymeleaf](../../images/loda1558661736676/3.png)
+![image](https://github.com/user-attachments/assets/d38adae8-aa7f-4b9f-92c3-513aa06a2219)
 
 Nhấn vào nút **Xem Danh Sách** để đi tới `GET /listTodo`
 
-![spring-thymeleaf](../../images/loda1558661736676/4.png)
+![image](https://github.com/user-attachments/assets/10ad3ea7-47e6-43dd-b32a-6fa30970988e)
 
 Bấm **Thêm Công Việc** để đi tới trang `GET /addTodo`
 
-![spring-thymeleaf](../../images/loda1558661736676/5.png)
+![image](https://github.com/user-attachments/assets/3ec40485-3642-4a0a-9161-ddd9e7b8cb80)
 
 Nhập thông tin và bấm **Add** để gửi thông tin tới server `POST /addTodo`. 
 
 Nếu thành công, server sẽ trả về thành công.
 
-![spring-thymeleaf](../../images/loda1558661736676/6.png)
+![image](https://github.com/user-attachments/assets/8a7cbfaf-39f4-4f82-86f7-5e96828f7069)
 
 Xem lại danh sách công việc bằng cách bấm vào **Xem danh sách công việc**.
 
-![spring-thymeleaf](../../images/loda1558661736676/7.png)
+![image](https://github.com/user-attachments/assets/14bec5f9-bc5a-4ba4-8b4b-b8e9692aee11)
 
 Nếu danh sách quá nhiều, chúng ta có giới hạn bằng cách truyền lên param `limit`. 
 
 Ví dụ tôi truyền vào là `http://localhost:8080/listTodo?limit=2`
 
-![spring-thymeleaf](../../images/loda1558661736676/8.png)
+![image](https://github.com/user-attachments/assets/808516b0-80d8-4392-b2a2-1d87b7918106)
 
 Kết quả chỉ còn 2 việc phải làm =)))
 
 ### Kết
 
 Như mọi khi, [toàn bộ code tham khảo tại Github][link-github]
-<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/loda-kun/spring-boot-learning">
+<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/TranDatk/spring-boot-learning">
 <i class="fab fa-github"></i>
 </a>
 
