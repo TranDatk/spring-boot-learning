@@ -350,6 +350,8 @@ Tới đây bạn hãy tham chiếu đường dẫn request với hàm xử lý 
 
 Khi request lên, chúng ta nhận được giá trị của `name` và tiếp tục gán nó vào `Model`.
 
+![image](https://github.com/user-attachments/assets/b583c48a-da80-421f-884c-65b020ad6868)
+
 `Model` ở đây là một object được **Spring Boot** đính kém trong mỗi response. 
 
 `Model` chứa các thông tin mà bạn muốn trả về và **Template Engine** sẽ trích xuất thông tin này ra thành html và đưa cho người dùng.
