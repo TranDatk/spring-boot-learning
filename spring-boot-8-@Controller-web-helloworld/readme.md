@@ -79,7 +79,7 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-![spring-configuration](../../images/loda1558189401113/2.jpg)
+![image](https://github.com/user-attachments/assets/bae57f04-12b9-40f6-9fc4-96314859cb7b)
 
 ### @Controller
 
@@ -87,8 +87,7 @@ Cấu trúc thư mục:
 
 Để xây dựng một trang web với **Spring Boot**, bạn sẽ cần tuân theo quy trình như hình dưới đây:
 
-![spring-configuration](../../images/loda1558189401113/3.png)
-
+![image](https://github.com/user-attachments/assets/a28f5c17-efd8-4b89-8337-0696a3145448)
 
 `@Controller` là nơi tiếp nhận các thông tin request từ phía người dùng. Nó có nhiệm vụ đón nhận các yêu cầu (kèm theo thông tin request) và chuyển các yêu cầu này xuống cho tầng `@Serivce` xử lý logic.
 
@@ -98,7 +97,7 @@ Cấu trúc thư mục:
 
 Mặc định trong **Spring Boot**, các file html này sẽ được lưu trữ trong thư mục `resources/templates` như sau:
 
-![spring-boot-web](../../images/loda1558189401113/4.jpg)
+![image](https://github.com/user-attachments/assets/04646c72-32a7-48d1-82b6-aaa3e58212d0)
 
 **Spring Boot + Thymeleaf** sẽ tìm kiếm các file này theo tên. 
 
@@ -166,8 +165,7 @@ Bạn hãy vào trình duyệt theo đường dẫn `http://localhost:8080/`
 
 Kết quả sẽ như sau:
 
-
-![spring-boot-web](../../images/loda1558189401113/5.jpg)
+![image](https://github.com/user-attachments/assets/1633f6d0-6c2f-40a4-b3c4-b48adf17b7b1)
 
 
 ### Giải thích 1
@@ -201,7 +199,7 @@ Chúng ta mở rộng thêm một chút, để tạo trang **Hello Your Name!**
 
 Cấu trúc thư mục:
 
-![spring-configuration](../../images/loda1558189401113/2.jpg)
+![image](https://github.com/user-attachments/assets/4b43b1c7-9d28-4491-9598-965934f48c9f)
 
 
 Mở rộng `WebController` như sau:
@@ -321,14 +319,13 @@ public class App {
 
 `http://localhost:8080/`
 
-![spring-boot-web](../../images/loda1558189401113/6.jpg)
+![image](https://github.com/user-attachments/assets/2d3b7cd2-0a37-4a56-9e06-2cd1fd56314d)
 
 Nhập tên của bạn vào ô và submit. Nó sẽ tạo một request GET tới địa chỉ `/hello` kèm theo param `?name=your_name`.
 
 Ví dụ tôi nhập "Loda" nó sẽ request tới `http://localhost:8080/hello?name=Loda`
 
-![spring-boot-web](../../images/loda1558189401113/7.jpg)
-
+![image](https://github.com/user-attachments/assets/45496ef1-173f-4121-8c54-2c6e9176eb0d)
 
 ### Giải thích 2
 
@@ -368,7 +365,7 @@ Chi tiết về `Thymeleaf` tôi sẽ giới thiệu ở bài sau, tạm thời 
 ### Kết
 
 Như mọi khi, [code được up tại Github][link-github]
-<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/loda-kun/spring-boot-learning">
+<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/TranDatk/spring-boot-learning">
 <i class="fab fa-github"></i>
 </a>
 
