@@ -21,7 +21,7 @@ Trong bài này, chúng ta sẽ tìm hiểu chi tiết hơn về **Thymeleaf** v
 
 Các file HMTL do Thymeleaf tạo ra là nhờ kết hợp **dữ liệu** và **template + quy tắc** để sinh ra một file HTML chứa đầy đủ thông tin.
 
-![spring-thymeleaf](../../images/loda1558267496214/2.png)
+![image](https://github.com/user-attachments/assets/f09aad88-1f0a-4ff6-a988-c1a1522914f8)
 
 Việc của bạn là cung cấp dữ liệu và quy định **template** như nào, còn việc dùng các thông tin đó để render ra HTML sẽ do **Thymeleaf** giải quyết.
 
@@ -214,13 +214,13 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-![spring-thymeleaf](../../images/loda1558267496214/3.jpg)
+![image](https://github.com/user-attachments/assets/1c8e1c1d-1d48-47db-ae2d-17c4d53c1c9f)
 
 #### Cấu hình thymeleaf
 
 Chúng ta sẽ cấu hình ứng dụng bằng file `application.properties`.
 
-![spring-thymeleaf](../../images/loda1558267496214/5.jpg)
+![image](https://github.com/user-attachments/assets/714facc1-a380-4a00-a81c-6d7ecc4ee2c0)
 
 _application.properties_
 
@@ -251,7 +251,7 @@ Các trang website hỗ trợ đã ngôn ngữ (i18n) thì các message sẽ đ�
 
 **Thymeleaf** sẽ tự làm điều này cho chúng ta, vì ở trên chúng ta đã cấu hình cho nó vị trí lưu trũ các messages này rồi.
 
-![spring-thymeleaf](../../images/loda1558267496214/4.jpg)
+![image](https://github.com/user-attachments/assets/e2507f52-9784-4b47-bf06-4ff68425c878)
 
 
 Ví dụ:
@@ -278,8 +278,7 @@ File `.html` là dạng template sử dụng để render ra webpage và trả v
 
 **Thymleaf** sẽ tự biết tìm đường tới những tài nguyên này.
 
-
-![spring-thymeleaf](../../images/loda1558267496214/6.jpg)
+![image](https://github.com/user-attachments/assets/2dfae42f-4fff-46c0-a0a0-301f45001f3c)
 
 #### index.html
 
@@ -334,7 +333,7 @@ public class App {
 
 Truy cập vào địa chỉ `http://localhost:8085/`
 
-![spring-thymeleaf](../../images/loda1558267496214/7.jpg)
+![image](https://github.com/user-attachments/assets/7f27fea7-953c-417b-b937-1be7078dce33)
 
 Ứng dụng hiện ra dòng chữ chào mừng lấy từ `messages` và button được trang trí nhờ bootstrap trong `static`.
 
@@ -440,11 +439,11 @@ _resources/templates/profile.html_
 
 Chúng ta chạy lại chương trình lần nữa và truy cập vào địa chỉ `http://localhost:8085/`.
 
-![spring-thymeleaf](../../images/loda1558267496214/7.jpg)
+![image](https://github.com/user-attachments/assets/6909bd1b-cd1b-4f38-a658-4ea159837138)
 
 Click vào Button **Loda Profile**. Trình duyệt sẽ đi tới đại chỉ `http://localhost:8085/profile`
 
-![spring-thymeleaf](../../images/loda1558267496214/8.jpg)
+![image](https://github.com/user-attachments/assets/a2e00638-f041-450e-b1d1-7de0bae3e331)
 
 Hiển thị ra toàn bộ thông tin.
 
