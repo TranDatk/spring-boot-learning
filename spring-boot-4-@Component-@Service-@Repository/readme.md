@@ -21,7 +21,7 @@ Kiến trúc MVC trong Spring Boot được xây dựng dựa trên tư tưởng
 
 Kiến trúc Controller-Service - Repository chia project thành 3 lớp:
 
-![spring-bean-life-cycle](../../images/loda1557627097246/2.png)
+![image](https://github.com/user-attachments/assets/62b5da3c-0c51-4cbb-acc0-0104a61a066f)
 
 **Consumer Layer hay Controller:** là tầng giao tiếp với bên ngoài và handler các request từ bên ngoài tới hệ thống.
 
@@ -93,7 +93,7 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-![spring-bean-life-cycle](../../images/loda1557627097246/3.png)
+![image](https://github.com/user-attachments/assets/2197ad16-fd89-479c-9653-1fe265456ec4)
 
 ### Implement
 
