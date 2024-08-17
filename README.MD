@@ -11,9 +11,9 @@ Spring Boot và tất tần tật tất cả mọi thứ liên quan tới nó, b
 
 Mỗi module đều có hướng dẫn chi tiết đi kèm.
 
-:eggplant: [loda.me](https://loda.me) :banana:
+:eggplant: [loda.me](https://web.archive.org/web/20230602183958/https://loda.me/) :banana:
 
-[Spring Boot](https://github.com/TranDatk/spring-boot-learning) &nbsp;| &nbsp; [Java](https://github.com/TranDatk/java-all) &nbsp;| &nbsp; [Github](https://github.com/TranDatk/spring-boot-learning)
+[Spring Boot](https://github.com/TranDatk/spring-boot-learning) &nbsp;| &nbsp; [Java](https://github.com/loda-kun/java-all) &nbsp;| &nbsp; [Github](https://github.com/TranDatk/spring-boot-learning)
 
 
 [English](https://github.com/TranDatk/spring-boot-learning)
@@ -21,7 +21,7 @@ Mỗi module đều có hướng dẫn chi tiết đi kèm.
 ---
 ### Vì sao nên học Java?
 
-Nguồn: [Xem bài viết  đầy đủ tại đây](https://loda.me/tai-sao-nen-hoc-java-va-spring-loda1559051651429)
+Nguồn: [Xem bài viết  đầy đủ tại đây](https://web.archive.org/web/20211022031007/https://loda.me/tai-sao-nen-hoc-java-va-spring-loda1559051651429/)
 
 Trước khi nói **Spring Boot**, chúng ta nói về nền tảng của nó, chính là **Java**.
 
@@ -167,7 +167,7 @@ Hi vọng việc này sẽ giúp đỡ cho các tân binh mới vào nghề dễ
 
 > Nếu có bất kỳ nội dung nào liên quan tới Spring Boot còn thiếu，hãy tạo [issues](https://github.com/ityouknow/spring-boot-examples/issues) cho nó, tôi sẽ theo dõi và cải thiện。
 
-Mọi thông tin xin liên hệ: [https://loda.me/about](https://loda.me/about)
+Mọi thông tin xin liên hệ: [https://loda.me/about](https://web.archive.org/web/20211022040201/https://loda.me/about/)
 
 ![](docs/images/qr-code.png)
 
