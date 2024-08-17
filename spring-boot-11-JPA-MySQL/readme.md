@@ -90,7 +90,7 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-![spring-jpa](../../images/loda1558687596060/2.jpg)
+![image](https://github.com/user-attachments/assets/32bdeb51-286c-4557-bb2b-de18852c5ce2)
 
 ### Tạo Table và dữ liệu
 
@@ -131,8 +131,7 @@ CALL generate_data();
 
 Sau khi chạy xong script trên, chúng ta kiểm tra database đã có dữ liệu chưa.
 
-![spring-jpa](../../images/loda1558687596060/3.jpg)
-
+![image](https://github.com/user-attachments/assets/a4dcf251-ddae-42dc-9888-e4b6fad0ce33)
 
 ### Tạo Model User
 
@@ -252,8 +251,7 @@ userRepository.findAll()
 
 Nếu bạn tìm kiếm thì sẽ thấy `UserRepository` có hàng chục method mà chúng ta không cần viết lại nữa. Vì nó kế thừa `JpaRepository` rồi.
 
-![spring-jpa](../../images/loda1558687596060/4.jpg)
-
+![image](https://github.com/user-attachments/assets/53d4f1f0-0c0d-4886-8b2f-a4ddbaa7145f)
 
 ### Demo
 
