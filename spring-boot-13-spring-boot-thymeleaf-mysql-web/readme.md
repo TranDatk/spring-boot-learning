@@ -275,6 +275,8 @@ _service/TodoService.java_
 ```java
 @Service
 public class TodoService {
+    // Mình khuyến khích các bạn sử dụng Constructor injection hơn là Field injection như anh Nam nha 
+
     @Autowired
     private TodoRepository todoRepository;
 
