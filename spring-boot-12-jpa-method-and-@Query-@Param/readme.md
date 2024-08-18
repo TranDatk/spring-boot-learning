@@ -108,6 +108,9 @@ Ví dụ:
 List<Person> findByAddressZipCode(ZipCode zipCode);
 ```
 
+***
+🙌Ghi chú thêm của TranDatk: Các bạn có thể tham khảo thêm một số từ khóa được hỗ trợ bên trong tên phương thức ở đây: [xem tại đây][link-jpa-qery]
+***
 
 ### @Query
 
@@ -412,3 +415,4 @@ Như mọi khi, [toàn bộ code tham khảo tại Github][link-github]
 [link-hiber-1]: https://loda.me/jpa-huong-dan-su-dung-one-to-one-loda1554476367261
 [link-hiber-2]: https://loda.me/jpa-huong-dan-one-to-many-va-many-to-one-loda1554518130613
 [link-hiber-3]: https://loda.me/jpa-huong-dan-many-to-many-loda1554524778629
+[link-jpa-qery]: https://docs.spring.io/spring-data/jpa/reference/jpa/query-methods.html#jpa.query-methods.query-creation
