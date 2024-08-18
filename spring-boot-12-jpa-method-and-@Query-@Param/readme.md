@@ -409,10 +409,10 @@ Như mọi khi, [toàn bộ code tham khảo tại Github][link-github]
 <i class="fab fa-github"></i>
 </a>
 
-[link-spring-boot-11]: https://loda.me/spring-boot-11-huong-dan-spring-boot-jpa-my-sql-loda1558687596060
+[link-spring-boot-11]: https://web.archive.org/web/20210119152212/https://loda.me/spring-boot-11-huong-dan-spring-boot-jpa-my-sql-loda1558687596060/
 [link-github]: https://github.com/TranDatk/spring-boot-learning
 [link-criteria]: https://web.archive.org/web/20211022042947/https://loda.me/huong-dan-su-dung-criteria-api-trong-hibernate-loda1552815848300/
-[link-hiber-1]: https://loda.me/jpa-huong-dan-su-dung-one-to-one-loda1554476367261
-[link-hiber-2]: https://loda.me/jpa-huong-dan-one-to-many-va-many-to-one-loda1554518130613
-[link-hiber-3]: https://loda.me/jpa-huong-dan-many-to-many-loda1554524778629
+[link-hiber-1]: https://web.archive.org/web/20211022021840/https://loda.me/jpa-huong-dan-su-dung-one-to-one-loda1554476367261/
+[link-hiber-2]: https://web.archive.org/web/20211022023328/https://loda.me/jpa-huong-dan-one-to-many-va-many-to-one-loda1554518130613/
+[link-hiber-3]: https://web.archive.org/web/20211022035935/https://loda.me/jpa-huong-dan-many-to-many-loda1554524778629/
 [link-jpa-qery]: https://docs.spring.io/spring-data/jpa/reference/jpa/query-methods.html#jpa.query-methods.query-creation
