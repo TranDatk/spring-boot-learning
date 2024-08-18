@@ -104,8 +104,9 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-![spring-thymleaf-mysql](../../images/loda1558758475731/2.jpg)
-![sspring-thymleaf-mysq](../../images/loda1558758475731/2_2.jpg)
+| Hình 1   | Hình 2  |
+| -------- | ------- |
+| ![image](https://github.com/user-attachments/assets/d835a0d0-9c0c-49bb-a959-77ce195ef4be)| ![image](https://github.com/user-attachments/assets/e26b26f5-9c99-49aa-a2d7-b6f26e735ca4)|
 
 ### Tạo Database
 
@@ -131,7 +132,7 @@ INSERT INTO `todo_db`.`todo` (`title`, `detail`) VALUES ('Làm bài tập', 'Ho�
 
 Xem thử kết quả:
 
-![sspring-thymleaf-mysq](../../images/loda1558758475731/3.jpg)
+![image](https://github.com/user-attachments/assets/6d34daa6-678b-4d49-8277-df9d1c1c3044)
 
 ### Cấu hình ứng dụng
 
@@ -552,33 +553,33 @@ public class App {
 
 Truy cập địa chỉ: `http://localhost:8085/`
 
-![sspring-thymleaf-mysq](../../images/loda1558758475731/4.jpg)
+![image](https://github.com/user-attachments/assets/40aec273-556b-4dd7-bdd3-93b9415cfa73)
 
 Vì chúng ta cấu hình `Locale` là `vi`, nên ngôn ngữ đều hiện Tiếng Việt, rất tuyệt :3 
 
 Bấm vào **Xem danh sách công việc** để tới `/listTodo`
 
-![sspring-thymleaf-mysq](../../images/loda1558758475731/5.jpg)
+![image](https://github.com/user-attachments/assets/c3468fc1-37da-4caf-a269-43250b9d4eda)
 
 Vì chúng ta đã insert 1 bản ghi vào Database từ trước, nên ở đây nó hiện ra 1 việc cần làm.
 
 Bấm vào **Thêm công việc** để tới `/addTodo`
 
-![sspring-thymleaf-mysq](../../images/loda1558758475731/7.jpg)
+![image](https://github.com/user-attachments/assets/86d865ed-fffa-4a75-93ca-2198b280709e)
 
 Bấm **Add** để lưu thông tin vào Database.
 
-![sspring-thymleaf-mysq](../../images/loda1558758475731/8.jpg)
+![image](https://github.com/user-attachments/assets/a9b759f6-a454-452e-8057-ea2d51debbc2)
 
 Vậy là giờ chúng ta có 2 công việc :3
 
-![sspring-thymleaf-mysq](../../images/loda1558758475731/9.jpg)
+![image](https://github.com/user-attachments/assets/b4b304a6-52c3-4c6f-ac0c-841370581d7a)
 
 Bây giờ giả sử dụng ta gửi lên request tạo ra một Todo không hợp lệ.
 
 `TodoValidator` sẽ trả về null -> thêm thất bại
 
-![sspring-thymleaf-mysq](../../images/loda1558758475731/10.jpg)
+![image](https://github.com/user-attachments/assets/f545fbb9-8ba2-4e22-af30-4a790879f533)
 
 ### Kết
 
@@ -593,25 +594,19 @@ Như mọi khi, [toàn bộ code tham khảo tại Github][link-github]
 </a>
 
 
-
-
-
-
-
-
 [link-lombok]: https://loda.me/general-huong-dan-su-dung-lombok-giup-code-java-nhanh-hon-69-loda1552789752787/
 [link-hibernate]: https://loda.me/hibernate-la-gi-loda1554623701594
 
-[link-spring-boot-1]: https://loda.me/spring-boot-1-huong-dan-component-va-autowired-loda1557412317602
-[link-spring-boot-2]: https://loda.me/spring-boot-2-autowired-primary-qualifier-loda1557561089057
-[link-spring-boot-3]: https://loda.me/spring-boot-3-spring-bean-life-cycle-post-construct-va-pre-destroy-loda1557583753982
-[link-spring-boot-4]: https://loda.me/spring-boot-4-component-vs-service-vs-repository-loda1557627097246
-[link-spring-boot-5]: https://loda.me/spring-boot-5-component-scan-la-gi-loda1557673850320
-[link-spring-boot-6]: https://loda.me/spring-boot-6-configuration-va-bean-loda1557885506910
-[link-spring-boot-7]: https://loda.me/spring-boot-7-spring-boot-application-config-va-value-loda1558171356103
+[link-spring-boot-1]: https://web.archive.org/web/20211022033235/https://loda.me/spring-boot-1-huong-dan-component-va-autowired-loda1557412317602/
+[link-spring-boot-2]: https://web.archive.org/web/20211022031445/https://loda.me/spring-boot-2-autowired-primary-qualifier-loda1557561089057/
+[link-spring-boot-3]: https://web.archive.org/web/20210920142956/https://loda.me/spring-boot-3-spring-bean-life-cycle-post-construct-va-pre-destroy-loda1557583753982/
+[link-spring-boot-4]: https://web.archive.org/web/20210920141012/https://loda.me/spring-boot-4-component-vs-service-vs-repository-loda1557627097246/
+[link-spring-boot-5]: https://web.archive.org/web/20210920131412/https://loda.me/spring-boot-5-component-scan-la-gi-loda1557673850320/
+[link-spring-boot-6]: https://web.archive.org/web/20210920151626/https://loda.me/spring-boot-6-configuration-va-bean-loda1557885506910/
+[link-spring-boot-7]: https://web.archive.org/web/20210920133613/https://loda.me/spring-boot-7-spring-boot-application-config-va-value-loda1558171356103/
 [link-spring-boot-8]: https://loda.me/spring-boot-8-tao-web-helloworld-voi-controller-loda1558189401113
 [link-spring-boot-9]: https://loda.me/spring-boot-9-huong-dan-chi-tiet-lam-web-voi-thymeleaf-demo-full-loda1558661736676
 [link-spring-boot-10]: https://loda.me/spring-boot-10-request-mapping-post-mapping-model-attribute-request-param-web-to-do-voi-thymeleaf-loda1558661736676
 [link-spring-boot-11]: https://loda.me/spring-boot-11-huong-dan-spring-boot-jpa-my-sql-loda1558687596060
 [link-spring-boot-12]: https://loda.me/spring-boot-12-spring-jpa-method-query-loda1558746200832
-[link-github]: https://github.com/loda-kun/spring-boot-learning
+[link-github]: https://github.com/TranDatk/spring-boot-learning
