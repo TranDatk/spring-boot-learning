@@ -211,7 +211,7 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-![spring-jpa](../../images/loda1558746200832/2.jpg)
+![image](https://github.com/user-attachments/assets/3aef3d56-061a-4411-a802-617a9473602c)
 
 #### Tạo Database
 
@@ -402,7 +402,7 @@ Khi tới đây, tôi muốn bạn tham khảo thêm một số khái niệm sau
 4. [「Jpa」Hướng dẫn @ManyToMany][link-hiber-3]
 
 Như mọi khi, [toàn bộ code tham khảo tại Github][link-github]
-<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/loda-kun/spring-boot-learning">
+<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/TranDatk/spring-boot-learning">
 <i class="fab fa-github"></i>
 </a>
 
