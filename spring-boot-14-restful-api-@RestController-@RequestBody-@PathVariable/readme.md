@@ -149,7 +149,7 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-![spring-boot-rest-api](../../images/loda1558775921707/2.jpg)
+![image](https://github.com/user-attachments/assets/e14de01c-108c-4137-8f83-5ddfa815421e)
 
 #### Tạo model
 
@@ -276,7 +276,7 @@ Bây giờ chỉ cần Test thôi!
 POST http://localhost:8080/api/v1/todo
 ```
 
-![spring-boot-rest-api](../../images/loda1558775921707/3.jpg)
+![image](https://github.com/user-attachments/assets/e272d93a-8f6e-4ad2-aa43-74a04c1cd7f6)
 
 
 #### Xem danh sách To-do
@@ -285,7 +285,7 @@ POST http://localhost:8080/api/v1/todo
 GET http://localhost:8080/api/v1/todo
 ```
 
-![spring-boot-rest-api](../../images/loda1558775921707/4.jpg)
+![image](https://github.com/user-attachments/assets/bffd9480-6cd7-4602-a5df-9cc2ba46261f)
 
 
 #### Sửa To-do
@@ -293,7 +293,8 @@ GET http://localhost:8080/api/v1/todo
 ```
 PUT http://localhost:8080/api/v1/todo/1
 ```
-![spring-boot-rest-api](../../images/loda1558775921707/5.jpg)
+
+![image](https://github.com/user-attachments/assets/799a00f5-0b89-4b74-ac23-5bc59bbae341)
 
 #### Lấy thông tin To-do
 
@@ -301,7 +302,7 @@ PUT http://localhost:8080/api/v1/todo/1
 GET http://localhost:8080/api/v1/todo/1
 ```
 
-![spring-boot-rest-api](../../images/loda1558775921707/6.jpg)
+![image](https://github.com/user-attachments/assets/7a826adb-229f-4f1e-a6fa-17fcc58f777a)
 
 #### Xóa To-do
 
@@ -309,7 +310,7 @@ GET http://localhost:8080/api/v1/todo/1
 DELETE http://localhost:8080/api/v1/todo/1
 ```
 
-![spring-boot-rest-api](../../images/loda1558775921707/7.jpg)
+![image](https://github.com/user-attachments/assets/27ab270d-5946-4a68-8231-07b2de41c763)
 
 
 ### Kết
@@ -321,4 +322,4 @@ Như mọi khi, [toàn bộ code tham khảo tại Github][link-github]
 
 [link-lombok]: https://loda.me/general-huong-dan-su-dung-lombok-giup-code-java-nhanh-hon-69-loda1552789752787/
 [link-spring-boot-13]: https://loda.me/spring-boot-13-special-chi-tiet-spring-boot-thymeleaf-my-sql-i18n-web-demo-loda1558758475731
-[link-github]: https://github.com/loda-kun/spring-boot-learning
+[link-github]: https://github.com/TranDatk/spring-boot-learning
