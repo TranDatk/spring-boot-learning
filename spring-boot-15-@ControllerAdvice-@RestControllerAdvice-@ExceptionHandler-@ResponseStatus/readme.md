@@ -15,7 +15,7 @@ Vào link để xem chi tiết có hình ảnh minh họa:
 
 Tuy nhiên có một số vấn đề mà chúng ta kiểm soát. Ví dụ như nếu người dùng request lên một `id` không hề tồn tại thì sao?
 
-![spring-boot-rest-api](../../images/loda1558838525127/3.jpg)
+![image](https://github.com/user-attachments/assets/7414b2bd-3674-4065-9d7b-0290a4a62535)
 
 Trong bài viết này, chúng ta sẽ tìm hiểu cách xử lý Exception trong **Spring Boot**
 
@@ -95,7 +95,7 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-![spring-boot-rest-api](../../images/loda1558838525127/2.jpg)
+![image](https://github.com/user-attachments/assets/cf409d00-e4db-4eb6-954b-c79bd5dd7dc5)
 
 #### Tạo model
 
@@ -214,13 +214,12 @@ GET http://localhost:8080/api/v1/todo/11
 
 Ở đây, đối tượng 11 không tồn tại trong danh sách, chúng ta sẽ trả về lỗi cho phía Client.
 
-![spring-boot-rest-api](../../images/loda1558838525127/4.jpg)
-
+![image](https://github.com/user-attachments/assets/55fc39df-e9f0-442f-b6ec-58e18eaf17cc)
 
 ### Kết
 
 Như mọi khi, [toàn bộ code tham khảo tại Github][link-github]
-<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/loda-kun/spring-boot-learning">
+<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/TranDatk/spring-boot-learning">
 <i class="fab fa-github"></i>
 </a>
 
