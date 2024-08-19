@@ -246,5 +246,5 @@ Và như mọi khi, [toàn bộ code đều được up lên Github][link-github
 
 [link-github]: https://github.com/TranDatk/spring-boot-learning
 [link-spring-boot-0]: https://loda.me/spring-boot-0-series-lam-chu-spring-boot-tu-zero-to-hero-loda1558963914472
-[link-executor-1]: https://loda.me/khai-niem-thread-pool-va-executor-trong-java-loda1554800053212
-[link-executor-2]: https://loda.me/thread-pool-executor-va-nguyen-tac-quan-ly-pool-size-loda1554816034602
+[link-executor-1]: https://viblo.asia/p/khai-niem-threadpool-va-executor-trong-java-gAm5yXNwldb
+[link-executor-2]: https://viblo.asia/p/threadpoolexecutor-va-nguyen-tac-quan-ly-pool-size-Do754qyWKM6
