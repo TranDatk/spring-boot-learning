@@ -71,8 +71,7 @@ Trong bài hôm nay chúng ta sẽ tìm hiểu annotation `@ConfigurationPropert
 
 Cấu trúc thư mục:
 
-![spring-boot-rest-api](../../images/loda1558847989506/2.jpg)
-
+![image](https://github.com/user-attachments/assets/0d775094-81e9-4542-890f-50dde9c1919b)
 
 ### Cấu hình đơn giản
 
@@ -119,7 +118,7 @@ Vậy là xong, đơn giản phải không. Bây giờ, **Spring sẽ tự độ
 
 Tạo ra file _application.yml_ tại thư mục resources:
 
-![spring-properties](../../images/loda1556418741178/2.jpg)
+![image](https://github.com/user-attachments/assets/188dac5e-e46b-4d99-b507-891ab640619d)
 
 Thêm các thông tin chúng ta cần:
 
@@ -236,10 +235,10 @@ Global variable:
 Chúng ta đã tìm hiểu cách sử dụng annotation `@ConfigurationProperties` và các ứng dụng của nó. Áp dụng cách config này sẽ giúp bạn kiểm soát tốt hơn và sử dụng dễ hơn.
 
 Và như mọi khi, [toàn bộ code đều được up lên Github][link-github].
-<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/loda-kun/spring-boot-learning">
+<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/TranDatk/spring-boot-learning">
 <i class="fab fa-github"></i>
 </a>
 
 [link-lombok]: https://loda.me/general-huong-dan-su-dung-lombok-giup-code-java-nhanh-hon-69-loda1552789752787/
 [link-spring-boot-15]: http://localhost:8081/spring-boot-15-exception-handling-exception-handler-rest-controller-advice-controller-advice-response-status-loda1558838525127
-[link-github]: https://github.com/loda-kun/spring-boot-learning
+[link-github]: https://github.com/TranDatk/spring-boot-learning
