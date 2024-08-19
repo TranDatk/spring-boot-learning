@@ -19,7 +19,7 @@ Chúng ta sử dụng Maven, và yêu cầu các dependencies sau:
 
 _pom.xml_
 
-```
+```xml
 <dependencies>
 
     <!--spring mvc, rest-->
@@ -50,7 +50,7 @@ Trong bài này chúng ta sẽ cấu hình cho `spring-data-redis` sử dụng `
 
 Cấu trúc thư mục bao gồm:
 
-![spring-redis-structure-code](../../images/loda1557031434451/2.jpg)
+![image](https://github.com/user-attachments/assets/2aa14c43-5b28-47b7-a20d-975112c0b6a3)
 
 ### Implement
 
