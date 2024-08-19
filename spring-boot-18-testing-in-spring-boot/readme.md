@@ -492,4 +492,4 @@ Và như mọi khi, [toàn bộ code đều được up lên Github][link-github
 
 [link-lombok]: https://loda.me/general-huong-dan-su-dung-lombok-giup-code-java-nhanh-hon-69-loda1552789752787/
 [link-github]: https://github.com/loda-kun/spring-boot-learning
-[link-mockito]: https://viblo.asia/p/mockito-tu-a-den-z-WAyK8xAoKxX
+[link-mockito]: https://web.archive.org/web/20230602190808/https://loda.me/articles/sb20-huong-dan-toan-tap-mockito
