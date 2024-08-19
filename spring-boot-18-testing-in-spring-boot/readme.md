@@ -180,8 +180,7 @@ _pom.xml_
 
 Cấu trúc thư mục:
 
-
-![spring-profiles](../../images/loda1558861382229/2.jpg)
+![image](https://github.com/user-attachments/assets/ab14cca9-55ed-4725-8661-f21f3a98661d)
 
 #### Tạo Model, Service, Repository
 
@@ -493,4 +492,4 @@ Và như mọi khi, [toàn bộ code đều được up lên Github][link-github
 
 [link-lombok]: https://loda.me/general-huong-dan-su-dung-lombok-giup-code-java-nhanh-hon-69-loda1552789752787/
 [link-github]: https://github.com/loda-kun/spring-boot-learning
-[link-mockito]: https://loda.me/
+[link-mockito]: https://viblo.asia/p/mockito-tu-a-den-z-WAyK8xAoKxX
