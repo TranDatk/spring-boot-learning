@@ -59,7 +59,7 @@ public interface Processor<T, R> extends Subscriber<T>, Publisher<R>
 
 Bản chất, một `Subscriber` tạo một ` Subscription` tới `Publisher`, sau đó `Publisher` gửi một sự kiện cho `Subsriber` với một luồng các phần tử.
 
-![Subscriber-Publisher-Subscription](../../images/loda1557549671284/2.jpg)
+![image](https://github.com/user-attachments/assets/717f15dc-636a-4aa5-82c5-dc0891173434)
 
 ### Spring WebFlux
 **Spring Webflux** là một phiên bản song song với **Spring MVC** và hỗ trợ non-blocking reactive streams. Nó hỗ trợ khái niệm **back pressure** và sử dụng Server Netty để run hệ thống reactive. Nếu bạn đã quen thuộc với style **Spring MVC** thì bạn cũng dễ dàng làm việc với **Spring Webflux**.
@@ -77,7 +77,7 @@ Dươi đây là dependency của Webflux, nó đã kéo theo các dependencies 
 2. spring-webflux framework
 3. reactor-core
 
-```
+```xml
  <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-webflux</artifactId>
@@ -93,7 +93,7 @@ Chúng tôi sẽ xây dựng một ứng dụng đơn giản sử dụng Spring 
 - Cuối cùng là tạo 1 DB đơn giản và hỗ trợ Reactive bằng việc trả về kiểu `Flux` mà Webflux cung cấp. Các bạn có thể sử dụng DB lữu trữ khác hỗ trợ Reative như là **MongoDB**.
 
 _pom.xml_
-```
+```xml
 <dependencies>
     <dependency>
         <groupId>org.springframework.boot</groupId>
