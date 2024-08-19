@@ -177,7 +177,7 @@ export SPRING_PROFILES_ACTIVE=aws
 ```
 
 Nếu ai sử dụng `Intellij IDEA` thì có thể config ngay trong IDE như thế này, mỗi lần chạy nó tự active cho mình.
-![image-title-here](../../images/loda1552901817707/2.jpg){:class="center-image"}
+![image](https://github.com/user-attachments/assets/56013bcd-c6fa-41f5-9756-1583803908e5)
 
 ### 3. Cách sử dụng @Profile
 
@@ -254,7 +254,7 @@ public class LocalDatasourceConfig
 
 Cấu trúc thư mục:
 
-![spring-profiles](../../images/loda1558849286501/2.jpg)
+![image](https://github.com/user-attachments/assets/cb5d2cfe-a630-4265-a8e1-fe3a67f5f9a1)
 
 #### Tạo Model
 
@@ -333,10 +333,10 @@ LocalDatasource(url=Local object, Chỉ khởi tạo khi 'local' profile active)
 Okiee lahhh, thế là mình đã giới thiệu xong với các bạn `Spring Profiles`, Đây là một tính năng cực kì cực kì hữu ích, hi vọng các bạn hiểu và nắm được kiến thức, áp dụng vào sản phẩm của chính mình. Chúc các bạn thành công!
 
 Và như mọi khi, [toàn bộ code đều được up lên Github][link-github].
-<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/loda-kun/spring-boot-learning">
+<a class="btn btn-icon btn-github mr-1" target="_blank" href="https://github.com/TranDatk/spring-boot-learning">
 <i class="fab fa-github"></i>
 </a>
 
 [link-lombok]: https://loda.me/general-huong-dan-su-dung-lombok-giup-code-java-nhanh-hon-69-loda1552789752787/
 [link-spring-boot-16]: https://loda.me/spring-boot-16-huong-dan-su-dung-configuration-properties-loda1558847989506
-[link-github]: https://github.com/loda-kun/spring-boot-learning
+[link-github]: https://github.com/TranDatk/spring-boot-learning
